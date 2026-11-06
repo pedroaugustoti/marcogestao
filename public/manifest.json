@@ -1,0 +1,21 @@
+{
+  "name": "Marco Gestão",
+  "short_name": "Marco",
+  "description": "Previsão de demanda e gestão inteligente para pequenos negócios.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#F4F5F7",
+  "theme_color": "#1E2B50",
+  "icons": [
+    {
+      "src": "/icon-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
